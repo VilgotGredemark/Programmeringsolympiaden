@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\Programmeringsolympiaden\bin\Debug\net5.0\Programmeringsolympiaden.exe
+C:\Users\Admin\Documents\Programmeringsolympiaden\bin\Debug\net5.0\Programmeringsolympiaden.deps.json
+C:\Users\Admin\Documents\Programmeringsolympiaden\bin\Debug\net5.0\Programmeringsolympiaden.runtimeconfig.json
+C:\Users\Admin\Documents\Programmeringsolympiaden\bin\Debug\net5.0\Programmeringsolympiaden.runtimeconfig.dev.json
+C:\Users\Admin\Documents\Programmeringsolympiaden\bin\Debug\net5.0\Programmeringsolympiaden.dll
+C:\Users\Admin\Documents\Programmeringsolympiaden\bin\Debug\net5.0\ref\Programmeringsolympiaden.dll
+C:\Users\Admin\Documents\Programmeringsolympiaden\bin\Debug\net5.0\Programmeringsolympiaden.pdb
+C:\Users\Admin\Documents\Programmeringsolympiaden\obj\Debug\net5.0\Programmeringsolympiaden.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Programmeringsolympiaden\obj\Debug\net5.0\Programmeringsolympiaden.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Programmeringsolympiaden\obj\Debug\net5.0\Programmeringsolympiaden.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Programmeringsolympiaden\obj\Debug\net5.0\Programmeringsolympiaden.AssemblyInfo.cs
+C:\Users\Admin\Documents\Programmeringsolympiaden\obj\Debug\net5.0\Programmeringsolympiaden.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Programmeringsolympiaden\obj\Debug\net5.0\Programmeringsolympiaden.dll
+C:\Users\Admin\Documents\Programmeringsolympiaden\obj\Debug\net5.0\ref\Programmeringsolympiaden.dll
+C:\Users\Admin\Documents\Programmeringsolympiaden\obj\Debug\net5.0\Programmeringsolympiaden.pdb
+C:\Users\Admin\Documents\Programmeringsolympiaden\obj\Debug\net5.0\Programmeringsolympiaden.genruntimeconfig.cache
